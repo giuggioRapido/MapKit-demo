@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>55E07D24-53B4-471A-9810-BABF8FBA9C64</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MapView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FDF5A6520FBCDB8F6DAD796A32DEA791CB5265CA</key>
+		<string>https://github.com/chickenpup/MapView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>4. Restaurants from API/MapView.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FDF5A6520FBCDB8F6DAD796A32DEA791CB5265CA</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/chickenpup/MapView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FDF5A6520FBCDB8F6DAD796A32DEA791CB5265CA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FDF5A6520FBCDB8F6DAD796A32DEA791CB5265CA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Week%205%20(MapView)</string>
+		</dict>
+	</array>
+</dict>
+</plist>

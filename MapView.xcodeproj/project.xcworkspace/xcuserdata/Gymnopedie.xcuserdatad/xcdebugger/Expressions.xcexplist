@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ViewController mapViewDidFinishRenderingMap:fullyRendered:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.mapView.region">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController pressShowRestaurants:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.mapView.region">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__39-[ViewController pressShowRestaurants:]_block_invoke:ViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
